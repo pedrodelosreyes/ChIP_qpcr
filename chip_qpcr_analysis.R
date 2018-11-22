@@ -33,7 +33,7 @@ ctapi.chip <- qpcr.data$Ct[qpcr.data$Genotype == "CTAPI" & qpcr.data$Treatment =
 
 
 
-#Applying the ......
+#Applying the calculus
 
 i <- 1
 enrichment <- c()  
