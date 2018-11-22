@@ -2,6 +2,8 @@
 ## Email: pedro.reyes@ibvf.csic.es
 ## Date: February 2017
 
+##This script works with arguments in order to submit it with Rscript. 
+##If you want to run it in Rstudio, dont use arguments. 
 
 ##Arguments:
 arguments <- commandArgs(trailingOnly=TRUE)
